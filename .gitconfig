@@ -1,2 +1,2 @@
-plaintext
-  commit.template = ~/.gitmessage
+  [commit]
+    commit.template = ./.gitmessage
